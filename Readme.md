@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+## Thanks for downloading this template!
 
-Template Name: Vesperr
-Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## Template Name: Cuvi soft
+
+## Author: Balaji K
+## License: Cubie
