@@ -1,6 +1,4 @@
-## Thanks for downloading this template!
-
+## Thanks for visiting cuvi soft
 ## Template Name: Cuvi soft
-
 ## Author: Balaji K
 ## License: Cubie
